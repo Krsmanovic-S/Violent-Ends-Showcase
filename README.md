@@ -22,7 +22,7 @@ This is a repository for showing some of the features that are implemented insid
 
 # Item Example
 
-![](https://github.com/Krsmanovic-S/Violent-Ends-Showcase/blob/main/ItemShowcaseGIF.gif)
+![til](https://raw.githubusercontent.com/Krsmanovic-S/Violent-Ends-Showcase/main/ItemShowcaseGIF.gif)
 
 **Gathered experience**:
 
@@ -90,7 +90,7 @@ This is a repository for showing some of the features that are implemented insid
 
 # Reflection Vector Showcase
 
-![](https://github.com/Krsmanovic-S/Violent-Ends-Showcase/blob/main/ReflectionVectorGIF.gif)
+![til](https://raw.githubusercontent.com/Krsmanovic-S/Violent-Ends-Showcase/main/ReflectionVectorGIF.gif)
 
 **Gathered experience**:
 
