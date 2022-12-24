@@ -4,7 +4,7 @@ This is a repository for showing some of the features that are implemented insid
 
 ![ShieldShaderGIF](https://user-images.githubusercontent.com/103185975/209439959-55331ff4-ca1c-4736-9d10-dfb28060964a.gif)
 
-Gathered experience:
+**Gathered experience**:
 
   • Working with the 'Time' node
   
@@ -22,9 +22,9 @@ Gathered experience:
 
 # Item Example
 
-![ItemShowcaseGIF](https://user-images.githubusercontent.com/103185975/209440088-53c48ed7-94ea-48a7-9db8-31005d653455.gif)
+![Demo File](https://github.com/Krsmanovic-S/Violent-Ends-Showcase/blob/main/ItemShowcaseGIF.gif)
 
-Gathered experience:
+**Gathered experience**:
 
   • Creatively solving all edge case problems with item pathing
   
@@ -40,7 +40,7 @@ Gathered experience:
 
 ![AbilityShowcase](https://user-images.githubusercontent.com/103185975/209441285-a86ac28f-f478-48dc-8140-a2c5efcbc168.gif)
 
-Gathered experience:
+**Gathered experience**:
 
   • Connecting user input with UI and C++ code
   
@@ -54,7 +54,7 @@ Gathered experience:
 
 ![Skill-Tree-version-2](https://user-images.githubusercontent.com/103185975/209441716-7048c2b7-812b-48cb-89de-5c5c884d6ef0.png)
 
-Gathered experience:
+**Gathered experience**:
 
   • Using almost every UMG container to form a cohesive menu
   
@@ -76,7 +76,7 @@ Gathered experience:
 
 # AI Development
 
-Gathered experience:
+**Gathered experience**:
 
   • Working with Unreal's Behavior Trees, Blackboards and EQS systems
   
@@ -92,7 +92,7 @@ Gathered experience:
 
 ![ReflectionVectorGIF](https://user-images.githubusercontent.com/103185975/209442852-fc07a14f-0f07-430a-8927-7af28184215e.gif)
 
-Gathered experience:
+**Gathered experience**:
 
   • Working with hit results and traces for objects
   
