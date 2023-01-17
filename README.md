@@ -99,3 +99,9 @@ This is a repository for showing some of the features that are implemented insid
   • Using normalized and unit direction vectors
   
   • Visually representing bullet paths to the user
+
+# Level Design
+
+![til](https://raw.githubusercontent.com/Krsmanovic-S/Violent-Ends-Showcase/main/Starting-Area-1.PNG)
+
+![til](https://raw.githubusercontent.com/Krsmanovic-S/Violent-Ends-Showcase/main/Starting-Area-2.PNG)
